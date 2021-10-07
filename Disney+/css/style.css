@@ -8,7 +8,7 @@
 }
 body{
   font-family:"Avenir Roman", sans-serif ;
-  background: url("/Disney+/img/bg.jpg") no-repeat top center;
+  background: url("../img/bg.jpg") no-repeat top center;
   background-size: cover;
   height: 100vh;
   display: flex;
