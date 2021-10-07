@@ -1,6 +1,6 @@
 @font-face {
   font-family:"Avenir Roman" ;
-  src: url(/Disney+/css/avenir-roman.ttf);
+  src: url(./css/avenir-roman.ttf);
 }
 *{
   margin:0;
