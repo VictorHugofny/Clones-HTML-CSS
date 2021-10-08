@@ -1,2 +1,2 @@
-# Clones-HTML/CSS
- Clones de sites usando HTML E CSS
+# Clones-HTML/CSS/JAVASCRIPT
+ Clones de sites usando HTML,CSS E JAVASCRIPT
